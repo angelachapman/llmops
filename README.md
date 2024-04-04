@@ -1,8 +1,8 @@
 ---
-title: BeyondChatGPT Demo V1
-emoji: 🦀
+title: BeyondChatGPT
+emoji: 😻
 colorFrom: red
-colorTo: pink
+colorTo: blue
 sdk: docker
 pinned: false
 license: mit
