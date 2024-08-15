@@ -43,7 +43,7 @@ cd YOUR_REPOSITORY_NAME_HERE
 
 > NOTE: If you see a warning message like this: `warning: You appear to have cloned an empty repository.` - that means you've successfully followed all the steps so far correctly!
 
-### Adding the AIE2 Repository as an "Upstream Remote"
+### Adding the AIE4 Repository as an "Upstream Remote"
 
 Now we're going to add the class repository as an "upstream remote". 
 
@@ -62,8 +62,8 @@ git remote -v
 You should see an output very similar to this (your origin will be a different address)
 
 ```
-origin  git@github.com:chris-alexiuk/AIE3.git (fetch)
-origin  git@github.com:chris-alexiuk/AIE3.git (push)
+origin  git@github.com:chris-alexiuk/AIE4.git (fetch)
+origin  git@github.com:chris-alexiuk/AIE4.git (push)
 upstream        git@github.com:AI-Maker-Space/AIE4.git (fetch)
 upstream        git@github.com:AI-Maker-Space/AIE4.git (push)
 ```
