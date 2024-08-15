@@ -103,7 +103,7 @@ Share about your experience in a LinkedIn post, or in the Discord!
 * Share 3 lessons learned 
 * Share 3 lessons not yet learned
 
-## Bonus Content: 
+## Async Assignment: 
 
 You can find the notebook [Accessing OpenAI Like a Developer](https://colab.research.google.com/drive/1guRzIwRy800umYemaQosB0PHpLL8EK4w?usp=sharing) provided in this repository. 
 
@@ -116,6 +116,4 @@ You will work through:
   3. Using the OpenAI Python Library
   4. Prompt Engineering Principles
   5. Testing Your Prompt
-
-> NOTE: This assignment is optional - and no specific grades will be made available for this assignment, but you are encouraged to work through it!
 
