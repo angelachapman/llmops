@@ -21,11 +21,20 @@ class EmbeddingModel:
         self.embeddings_model_name = embeddings_model_name
 
     async def async_get_embeddings(self, list_of_text: List[str]) -> List[List[float]]:
-        embedding_response = await self.async_client.embeddings.create(
-            input=list_of_text, model=self.embeddings_model_name
-        )
-
-        return [embeddings.embedding for embeddings in embedding_response.data]
+        batch_size = 1024
+        batches = [list_of_text[i:i + batch_size] for i in range(0, len(list_of_text), batch_size)]
+        
+        async def process_batch(batch):
+            embedding_response = await self.async_client.embeddings.create(
+                input=batch, model=self.embeddings_model_name
+            )
+            return [embeddings.embedding for embeddings in embedding_response.data]
+        
+        # Use asyncio.gather to process all batches concurrently
+        results = await asyncio.gather(*[process_batch(batch) for batch in batches])
+        
+        # Flatten the results
+        return [embedding for batch_result in results for embedding in batch_result]
 
     async def async_get_embedding(self, text: str) -> List[float]:
         embedding = await self.async_client.embeddings.create(
