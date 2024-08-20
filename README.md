@@ -1,11 +1,8 @@
-
-# llmops
-=======
 ---
-title: BeyondChatGPT Demo
-emoji: 📉
-colorFrom: pink
-colorTo: yellow
+title: BeyondChatGPT
+emoji: 😻
+colorFrom: red
+colorTo: blue
 sdk: docker
 pinned: false
 app_port: 7860
@@ -190,4 +187,4 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 
 <p></p>
 
-### That's it for now!  And so it begins.... :
+### That's it for now!  And so it begins.... :)
