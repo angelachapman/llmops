@@ -20,14 +20,14 @@ You are a helpful expert in entrepreneurship. Answer user questions based only o
 If you don't know, say nah.
 
 Question:
-{question}
+{input}
 
 Context:
 {context}
 """
 
-async def vanilla_rag(texts:list[str], openai_key:str,
-                      collection_name="PMarca Blogs"):
+# Function to do vanilla RAG on a bunch of text strings that are already chunked
+async def vanilla_rag(texts:list[str], openai_key:str, collection_name:str="PMarca Blogs"):
 
     qdrant_client = QdrantClient(location=LOCATION) 
     qdrant_client.create_collection(
@@ -50,7 +50,7 @@ async def vanilla_rag(texts:list[str], openai_key:str,
     primary_qa_llm = ChatOpenAI(model_name=CHAT_MODEL, temperature=0)
 
     retrieval_augmented_qa_chain = (
-        {"context": itemgetter("question") | retriever, "question": itemgetter("question")}
+        {"context": itemgetter("input") | retriever, "input": itemgetter("input")}
         | RunnablePassthrough.assign(context=itemgetter("context"))
         | {"response": prompt | primary_qa_llm, "context": itemgetter("context")}
     )
