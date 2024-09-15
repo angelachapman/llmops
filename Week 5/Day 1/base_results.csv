@@ -1,0 +1,101 @@
+,id,question,expected_id,is_hit
+0,8109b554-9dd6-491d-a49c-b1433e4ce86a,What principles should national competent authorities safeguard while exercising their powers?,b2862bca-c339-4f9a-999a-734a70cf02b6,True
+1,cc671a0f-13d6-4ff4-9a78-d9fe066972b2,What are the expectations regarding the conduct of members of national competent authorities in relation to their duties?,b2862bca-c339-4f9a-999a-734a70cf02b6,True
+2,bf26a641-38ea-43a3-9ae4-3f676717b27c,What is the purpose of having a post-market monitoring system for providers of high-risk AI systems?,981e7d73-b432-4050-be04-0f762f4ab466,True
+3,17ed509e-8fe5-423c-b137-23ee422e2dbd,What types of data should post-market monitoring not cover according to the context?,981e7d73-b432-4050-be04-0f762f4ab466,False
+4,76c1321b-f3f0-499c-87d3-269764615d6b,What types of incidents are providers required to report to the relevant authorities regarding their AI systems?,5d7a575a-73c4-4ce6-9daf-26457a116919,True
+5,a50d70e4-9f8e-4973-b775-860c1e9a97e6,How does the context emphasize the importance of timely addressing issues related to the use of AI systems?,5d7a575a-73c4-4ce6-9daf-26457a116919,True
+6,32c19089-1d86-42d7-bb4a-b8a17df2b62b,What is the purpose of the system of market surveillance and compliance established by Regulation (EU) 2019/1020?,856a1d41-c2eb-46fe-8e74-df1bff2a4bb5,True
+7,9338984c-3571-48ff-a0f9-04a4d8cb4854,How are market surveillance authorities expected to exercise their powers according to the Regulation?,856a1d41-c2eb-46fe-8e74-df1bff2a4bb5,False
+8,870903f7-7d67-4b2e-9c20-e30913724d33,What role is designated to the European Data Protection Supervisor in relation to AI systems under this Regulation?,7fe23626-fc31-4593-88eb-4fe83971c8d1,True
+9,dfe72064-abb7-4464-aeb5-724c38d1bb2e,How do market surveillance activities impact the independence of supervised entities according to Union law?,7fe23626-fc31-4593-88eb-4fe83971c8d1,True
+10,16c837a1-8f32-4581-b314-4add31d45161,What is the role of national public authorities or bodies in relation to the application of Union law protecting fundamental rights as mentioned in the Regulation?,ab92861c-5e62-4eb5-b7a8-90189f8535ca,False
+11,161a9cf9-ebc6-4ddf-ada8-977144658d95,What type of AI systems does the Regulation specify should have a specific safeguard procedure for enforcement?,ab92861c-5e62-4eb5-b7a8-90189f8535ca,False
+12,ed893f3b-4d50-4168-838b-7aa802fc3afe,What are the consequences for systems placed on the market in violation of the prohibited practices outlined in the Regulation?,2eeb7d29-7391-479f-9040-23540107a058,True
+13,931358ca-4f26-422d-9956-34ea1fc4d80a,How do the transparency requirements in the Regulation affect the availability of AI systems?,2eeb7d29-7391-479f-9040-23540107a058,True
+14,0745df1c-1393-4a2e-91da-03c52f79f9b8,What are the internal governance and risk-management rules applicable to regulated financial institutions under Union financial services law?,fb580bee-0d31-4dfa-9dfb-3b0d2e5d4050,True
+15,b0b084e0-802a-44ae-8985-4205d4da0a96,Which regulations and directives are referenced in relation to the supervision and enforcement of Union financial services legal acts?,fb580bee-0d31-4dfa-9dfb-3b0d2e5d4050,False
+16,97d849cd-7c6d-4391-8b55-61711b411492,What are the roles of the competent authorities designated under the Regulation regarding AI systems in financial institutions?,3f3f991d-400c-48de-9254-9f3a626be976,True
+17,5bf718d6-cd0e-4b77-bed0-e942f2f662a0,Can Member States choose to designate a different authority for market surveillance tasks related to AI systems?,3f3f991d-400c-48de-9254-9f3a626be976,True
+18,9476fcf5-c9ee-481e-947a-4147badaac4a,What is the role of national authorities in relation to the European Central Bank under the Single Supervisory Mechanism?,2edc764d-e126-401f-8d12-a672b6984f7f,True
+19,e39067c8-9d7e-4bf6-b18f-50921ddd3988,What type of information should national authorities report to the European Central Bank during their market surveillance activities?,2edc764d-e126-401f-8d12-a672b6984f7f,True
+20,de45750e-c3ad-4d17-9201-17099e48c1eb,What are the key procedural obligations that should be integrated into the existing obligations under Directive 2013/36/EU for credit institutions?,1345fe8f-78a1-43b7-b5e4-fa64e795e125,True
+21,ebe7a740-c54c-4fef-bc3f-5e74c1d75fab,How do the proposed limited derogations relate to the quality management system of providers and the monitoring obligations for high-risk AI systems?,1345fe8f-78a1-43b7-b5e4-fa64e795e125,False
+22,4946ce0e-5339-437a-b850-a2e869d959b6,What directives govern the undertakings and insurance holding companies mentioned in the context?,ec40a919-3d47-403d-aa9f-7ea5f47f24e3,True
+23,b5786ef3-88d6-488c-adef-9bc4bca5d518,What is the purpose of the requirements regarding internal governance for financial institutions under Union financial services law?,ec40a919-3d47-403d-aa9f-7ea5f47f24e3,True
+24,ed1d9500-8eba-4ca2-a0f0-2943acdff06c,What powers should market surveillance authorities for high-risk AI systems in the area of biometrics possess according to the regulation?,beea8913-577a-4df1-ab11-5bec7d5e9ed0,True
+25,0d760c86-ecf3-4434-bc9c-ec50dc0128e1,In what contexts are high-risk AI systems in biometrics used that require oversight by market surveillance authorities?,beea8913-577a-4df1-ab11-5bec7d5e9ed0,False
+26,76eb4977-00e3-4111-8855-7a59b3fb9bf7,What powers are conferred to national data protection authorities by Directive (EU) 2016/680?,a09e3967-dd5e-4a06-a956-39eb3dde4987,True
+27,fc11f4e4-ce75-495f-8b29-51f849f9e5c5,How does the Regulation affect the disclosure of data to national data protection authorities?,a09e3967-dd5e-4a06-a956-39eb3dde4987,True
+28,910f7ccb-75e8-4ebd-a220-c4b817de6782,What is the purpose of the joint activities proposed by market surveillance authorities and the Commission regarding high-risk AI systems?,3cbc3638-f4c7-40b9-8d61-1f2ba1797fb1,False
+29,09a31761-5bdb-4b98-b37e-6ccbe9ba3b68,How should joint activities to promote compliance be conducted according to the context provided?,3cbc3638-f4c7-40b9-8d61-1f2ba1797fb1,False
+30,d19706fe-bc14-42b1-9c49-f16a5ccc6e24,What is the role of the AI Office in the supervision of AI systems based on general-purpose AI models?,3f6252d5-e179-454a-9700-078b5659bb46,False
+31,c1be6448-9a99-4a3e-a363-0827b4bb0219,How do responsibilities differ between Union and national market surveillance authorities regarding AI systems?,3f6252d5-e179-454a-9700-078b5659bb46,False
+32,58ffe8c6-b531-4e3b-8ac6-c4ada2ea27e2,What is the role of market surveillance authorities in relation to high-risk AI systems according to the context provided?,11f3d48c-c861-4e4a-82d7-44dd9561c883,False
+33,9abb0f5d-5ff9-4c08-9b2a-d8ba728ca343,How should market surveillance authorities proceed if they cannot conclude an investigation on a high-risk AI system due to lack of access to information?,11f3d48c-c861-4e4a-82d7-44dd9561c883,False
+34,aa826298-59af-46f5-9f09-da927a7dfe90,What powers should the Commission have regarding the supervision and enforcement of obligations on providers of general-purpose AI models?,a3b29b9b-c17c-4613-b934-4dca36dba4fd,False
+35,747dc279-cb3d-4435-a0f8-160be216f1af,How can the AI Office investigate possible infringements of the rules on providers of general-purpose AI models?,a3b29b9b-c17c-4613-b934-4dca36dba4fd,False
+36,51ebd29f-05b3-4677-bfa9-607b6e0013f7,What is the purpose of the AI Office in relation to complaints from downstream providers?,e797759a-9f22-4590-8446-1a268b7ab299,True
+37,54301e8c-cda0-435b-aeaf-3b31de266a8c,What type of complaints can downstream providers lodge regarding general-purpose AI models and systems?,e797759a-9f22-4590-8446-1a268b7ab299,True
+38,eb3d1c18-b194-49a1-8405-5fa668c125d4,What role does the scientific panel play in relation to the AI Office's monitoring activities for general-purpose AI models?,57dbf362-82df-4b84-a363-d44ecbf5cd44,True
+39,575dd9e3-71c5-42e0-8a87-9185034c0e3c,Under what circumstances can the scientific panel provide qualified alerts to the AI Office regarding general-purpose AI models?,57dbf362-82df-4b84-a363-d44ecbf5cd44,True
+40,cc7f7af4-2863-43f0-bbe6-ddbd14834c64,What mechanism allows the scientific panel to request documentation or information from a provider?,ed7777f4-99c0-49cb-bd0c-5bbd3a074f3b,True
+41,e8b38683-4b90-4512-b871-617dc3644120,Who can the scientific panel request information from regarding the performance of tasks?,ed7777f4-99c0-49cb-bd0c-5bbd3a074f3b,True
+42,89ed2305-d732-4232-9bd9-6d7a8b75f576,What actions is the AI Office required to take to monitor compliance with the obligations for providers of general-purpose AI models?,677eea82-73a6-4517-8743-170396bb655f,True
+43,37939b02-9c04-431e-9cbf-ac4f79c1324f,How can the AI Office involve independent expertise when conducting evaluations?,677eea82-73a6-4517-8743-170396bb655f,True
+44,b6f751f6-2219-4c51-bfb8-79418bc2d053,What measures can be requested to address identified systemic risks in the context of general-purpose AI models?,eee2b5d8-18b2-47a2-a1a3-28c865586560,True
+45,da2c33b6-3427-4a8a-82ae-cec6c18e2a7c,How do the procedural rights in Article 18 of Regulation (EU) 2019/1020 relate to the regulation of general-purpose AI models?,eee2b5d8-18b2-47a2-a1a3-28c865586560,True
+46,02acb595-7066-43fc-b44f-12d26b991789,What is the potential benefit of developing AI systems that are not classified as high-risk according to the Regulation?,7447090b-4b79-4c08-894d-69abb46ace50,False
+47,fa320d7e-530e-4248-af26-d05f4e052a20,How are providers of non-high-risk AI systems encouraged to approach the creation of codes of conduct?,7447090b-4b79-4c08-894d-69abb46ace50,True
+48,e8aeaeaa-2d04-46d9-a477-b383b89f3708,What additional requirements should AI models consider on a voluntary basis according to the context provided?,b09374bb-c456-4c0d-9a9e-cc8aba66e74d,False
+49,ea8d2fa9-34dd-4cd7-8cac-0d72cf65eea0,Why is it important to involve relevant stakeholders in the design and development of AI systems?,b09374bb-c456-4c0d-9a9e-cc8aba66e74d,True
+50,818b834f-c88c-4e2d-8a68-887afc226bb7,What are the key components that make voluntary codes of conduct effective according to the context?,d9e33de8-40f9-4b45-9647-414f46577a96,True
+51,81c542ae-2e22-4f0e-bdc0-d1bb6156f4f5,Who are the relevant stakeholders that should be involved in the development of these voluntary codes of conduct?,d9e33de8-40f9-4b45-9647-414f46577a96,False
+52,7d417371-7533-45a8-a7fd-0bcbec16c152,What is the purpose of Regulation (EU) 2023/988 in relation to AI systems that are not classified as high-risk?,54bb1336-e2d0-4237-ac1e-c73a9e8da49f,True
+53,00cc8ee7-9cc4-4555-8ac5-913758d2427f,Why is it important for AI systems that are not high-risk to be safe when placed on the market?,54bb1336-e2d0-4237-ac1e-c73a9e8da49f,False
+54,4f7c8bc5-09f0-4751-910c-eff477b3c17e,What types of information and data must be kept confidential according to the Regulation mentioned in the context?,8f4b9503-53b4-4d2a-8b77-0250c6b8f5eb,False
+55,e791c38a-7270-4005-90c9-1766901b2319,Why is it important for parties involved in the application of this Regulation to respect confidentiality?,8f4b9503-53b4-4d2a-8b77-0250c6b8f5eb,False
+56,6e24d8c9-eb74-4fbd-9657-cb5e70f9d185,What measures should Member States take to ensure compliance with the Regulation?,053d6070-d58a-4881-9a08-0b5a79062ef8,False
+57,ef4a6f89-e4ae-45ff-9bca-b64f01393a21,How should Member States assess the amount of administrative fines for infringements of the Regulation?,053d6070-d58a-4881-9a08-0b5a79062ef8,True
+58,0a8ab5a1-8186-4a2d-a009-bb911aa2a4be,"What factors should be considered when assessing the nature, gravity, and duration of an infringement according to the context provided?",55a4eced-3ee6-4514-af0d-bd6c0e30f623,False
+59,a99d5545-3699-44d9-ab09-212fd2bab1e5,"Who has the authority to impose fines on Union institutions, agencies, and bodies under this Regulation?",55a4eced-3ee6-4514-af0d-bd6c0e30f623,False
+60,5dddbe2e-a212-4b8a-a247-9a030ed8219e,What measures can be taken against providers of general-purpose AI models for non-compliance with the obligations imposed under this Regulation?,74f469aa-6ff5-4229-aa06-b1790ade4ad7,False
+61,276a5119-260c-4664-9311-5be0ec5819df,How does the Court of Justice of the European Union review decisions made by the Commission under this Regulation?,74f469aa-6ff5-4229-aa06-b1790ade4ad7,False
+62,ccd1f9e4-66d6-4b26-91f3-7693b9e01992,What remedies are available to natural and legal persons affected by the use of AI systems according to Union and national law?,ebe40ee6-6462-4e34-b919-e974d5bbbb0f,True
+63,90523a51-76ef-46c5-8203-7031e803e52b,Who can lodge a complaint if they believe there has been an infringement of the Regulation regarding AI systems?,ebe40ee6-6462-4e34-b919-e974d5bbbb0f,True
+64,1c27cf7e-4a9a-4f15-bebd-ea8c97440df5,What rights do affected persons have regarding explanations for decisions made by deployers based on high-risk AI systems?,2b552a0d-7a56-45d1-9fd4-cfb55fed439d,True
+65,d0a92698-4f2f-4a73-a883-56badd8a65fd,Under what circumstances might the right to obtain an explanation not apply to the use of AI systems?,2b552a0d-7a56-45d1-9fd4-cfb55fed439d,False
+66,cdac19f1-d4ff-43a4-909f-2722ed6f39e9,What does it mean when it is stated that a right is not already provided for under Union law?,3328020e-62ce-42c1-b460-e91b2daea3be,True
+67,47fa6d2c-e2d9-4da7-9d0d-d379a1887e47,How might the absence of a specific right under Union law impact individuals or entities?,3328020e-62ce-42c1-b460-e91b2daea3be,True
+68,932570dd-82d5-4b2e-a9b2-8bcebf8cd50f,What protections are afforded to whistleblowers under the Union law regarding infringements of this Regulation?,a9dcb8d6-74e0-4140-b8b7-78f6f20e6af8,True
+69,32131673-de09-4c8a-a1e8-f692e70d2927,Which directive applies to the reporting of infringements of this Regulation and the protection of whistleblowers?,a9dcb8d6-74e0-4140-b8b7-78f6f20e6af8,True
+70,9c2ec709-aa68-4d04-9bba-c2a513ea54d5,What is the purpose of delegating the power to adopt acts in accordance with Article 290 TFEU to the Commission?,b7658135-c155-40cb-a1ff-6edad9097e45,False
+71,6df89dc7-9d99-4415-bea1-3ef195ddd15d,Which aspects of high-risk AI systems can be amended by the Commission under the delegated power?,b7658135-c155-40cb-a1ff-6edad9097e45,False
+72,16375365-1df6-42ee-8e71-72d34a90d19c,What are the key components that need to be supplemented in the classification of general-purpose AI models with systemic risk?,16d0b0e7-5a44-490b-bdb7-d8c3a6735107,True
+73,bb087c23-e2fb-431b-b587-d7cc19d47598,Why is it important for the Commission to conduct appropriate consultations during its preparatory work on general-purpose AI models?,16d0b0e7-5a44-490b-bdb7-d8c3a6735107,True
+74,1ac89b4f-5230-4cab-a21e-fa284872f868,What documents do the European Parliament and the Council receive simultaneously with Member States' experts during the preparation of delegated acts?,6dbba768-a667-42c1-bee6-9ce695d9f137,True
+75,1f076cc9-bf33-43b1-a7ca-73b2a97cf674,Who has systematic access to meetings of Commission expert groups that are involved in the preparation of delegated acts?,6dbba768-a667-42c1-bee6-9ce695d9f137,True
+76,e601c020-7f17-454a-a67f-6e9a065f3dc9,What is the deadline for the Commission to evaluate and review the Regulation for the first time?,d1dd5218-1e75-45ee-aebe-bc0247f64276,False
+77,f3484194-65f5-493a-afd1-072ba71453b0,How often is the Commission required to assess the need to amend the list of high-risk AI systems and prohibited practices?,d1dd5218-1e75-45ee-aebe-bc0247f64276,True
+78,f7902e95-a8ae-48ef-9e7c-14e7320f3a78,What is the deadline for the Commission to evaluate the impact and effectiveness of voluntary codes of conduct for AI systems?,b2dcdf37-6601-4856-befb-3d4d237b766b,True
+79,9a9b6d69-ece8-4e6c-a15a-9ecfed059152,What specific aspects are to be assessed regarding the AI systems within the scope of the transparency obligations?,b2dcdf37-6601-4856-befb-3d4d237b766b,False
+80,e8199234-bb54-4b62-88d6-4d904bcff08d,What powers are conferred on the Commission to ensure uniform conditions for the implementation of the Regulation?,c704e638-50d9-455d-b159-2aa204e24db1,True
+81,1e31777a-98ac-4928-9fa9-5eca87071bd7,Which Regulation outlines the manner in which the implementing powers should be exercised?,c704e638-50d9-455d-b159-2aa204e24db1,True
+82,5bca2e9e-4a59-4c6c-95ce-826ec846a047,What is the main objective of the Regulation mentioned in the context?,fe88d74b-2508-494b-b434-dfc370e525d9,False
+83,6defd0cf-bcd6-4b48-b1d6-7d03b5de5232,How does the principle of subsidiarity relate to the actions that can be taken at the Union level regarding AI systems?,fe88d74b-2508-494b-b434-dfc370e525d9,False
+84,cc7f4456-9d25-4b20-8e09-cbe42d9ac87c,What is the objective mentioned in the context of the Regulation?,885a81b8-0caf-4c2e-8cac-83b0e64cc12f,True
+85,4e5b4b40-18b8-4cb0-a146-540ee7abd732,How does the Regulation ensure it does not exceed what is necessary to achieve its objective?,885a81b8-0caf-4c2e-8cac-83b0e64cc12f,True
+86,1d041efe-641f-44cc-bcb5-bd3e62e26c3a,What is the purpose of ensuring an appropriate adaptation period for operators in relation to high-risk AI systems?,619f5434-39fc-48ab-a009-b464e26675d4,False
+87,4b5da226-53cc-4c60-a152-88635f78dc23,How is the concept of significant change defined in the context of high-risk AI systems under this Regulation?,619f5434-39fc-48ab-a009-b464e26675d4,True
+88,bdce436f-7175-4437-be48-fd04976ddc08,What is the deadline for operators of AI systems that are components of large-scale IT systems to comply with the requirements of the Regulation?,8df03a52-ec22-4120-8b20-69f1224b4cd5,True
+89,a04839b5-49ba-42c5-a9ad-ddc4b9f39e2a,By what date must operators of high-risk AI systems intended for use by public authorities comply with the Regulation?,8df03a52-ec22-4120-8b20-69f1224b4cd5,True
+90,2441a5ed-b8f6-4c55-945a-c13b55629b6b,What are providers of high-risk AI systems encouraged to do during the transitional period?,764959e3-3d56-443e-b4ef-f145e7b09b1e,True
+91,f1f497f1-d311-4cb9-a517-dafd859b3d63,Is compliance with the relevant obligations of the Regulation mandatory or voluntary for providers of high-risk AI systems?,764959e3-3d56-443e-b4ef-f145e7b09b1e,True
+92,206e0820-c9ca-493f-bb10-d2057763d048,What is the date when the full provisions of the Regulation are set to apply?,4c3d483d-98b6-40ea-a52b-16dc9c29657e,False
+93,becde286-1223-4c97-8ba2-ef4a58bf5b7a,Why is it important to anticipate the application of the prohibitions before the full effect of the Regulation?,4c3d483d-98b6-40ea-a52b-16dc9c29657e,False
+94,6363e970-c61a-404b-95d8-8276cfae76a0,What is the deadline for the obligations for providers of general-purpose AI models to apply?,05d9f35b-111f-49c5-b031-0642334412a2,False
+95,33de40c6-ae34-4335-9360-77ccc917d757,By what date should codes of practice be ready to enable providers to demonstrate compliance?,05d9f35b-111f-49c5-b031-0642334412a2,False
+96,b771c525-7f03-48d7-909a-71907aa71acf,When should the provisions on penalties apply?,7ec3479a-a1e5-40f4-8d75-12a9dfe41a5c,True
+97,8be67a6a-4b8e-41fb-90f7-c87bbb027da4,What date marks the start of the application for the provisions on penalties?,7ec3479a-a1e5-40f4-8d75-12a9dfe41a5c,True
+98,420348ac-1f9f-4533-af27-cbc637182c5c,What is the main purpose of the Regulation mentioned in the context?,7ee23a1e-8849-4614-9629-e8817b7164e7,False
+99,799ac55c-1329-4cab-85d6-e8c2e486e44b,Which entities were consulted in accordance with Article 42(1) and (2) of Regulation (EU) 2018/1725?,7ee23a1e-8849-4614-9629-e8817b7164e7,False
